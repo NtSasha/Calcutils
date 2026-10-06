@@ -1,4 +1,4 @@
-# CalcUtils NTWALI
+# Calcutils
 
 CalcUtils is a simple Python utility package that provides basic mathematical operations.
 
